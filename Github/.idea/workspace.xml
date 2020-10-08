@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11966348-b9f0-4d34-aa86-6abe3d14e91f" name="Default Changelist" comment="" />
+    <list default="true" id="11966348-b9f0-4d34-aa86-6abe3d14e91f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iYuYW9xmGYLIBKLRUNsSZiFd3y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,16 +80,27 @@
     </configuration>
     <configuration name="RepositoryTest.verifyTestPassingExists" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Github" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.RepositoryTest" />
       <option name="METHOD_NAME" value="verifyTestPassingExists" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -124,6 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.RepositoryResultsPageTest.verifyTheFirstResult" />
+      <item itemvalue="TestNG.RepositoryResultsPageTest.verifyTheUrl" />
+      <item itemvalue="TestNG.RepositoryTest.verifyTestPassingExists" />
+      <item itemvalue="TestNG.RepositoryTest.verifyTheRepositorySearchResults" />
+      <item itemvalue="TestNG.RepositoryTest.verifyTheUrlForTheRepository" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.RepositoryTest.verifyTestPassingExists" />
@@ -152,6 +178,10 @@
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state x="578" y="289" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.986@0.23.1680.986" timestamp="1602110328171" />
+    <state x="304" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602142758523">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state x="304" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.988@0.23.1680.988" timestamp="1602142758523" />
     <state x="653" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1602112036521">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
